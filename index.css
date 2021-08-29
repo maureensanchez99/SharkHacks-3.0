@@ -96,6 +96,6 @@ section .wave.wave4 {
 a {
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
-    align-content: center;
+    text-align: center;
 }
 
