@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Candal&family=Lato&family=Roboto:ital@1&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+/*
+Fonts used:
+    font-family: 'Candal', sans-serif -> logo text
+    font-family: 'Roboto', sans-serif -> header text    
+    font-family: 'Lato', sans-serif -> regular  text
+*/
+
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+a {
+    text-decoration: none;
+}
